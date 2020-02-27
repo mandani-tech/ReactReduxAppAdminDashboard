@@ -1,2 +1,2 @@
 # ReactReduxAppAdminDashboard
-React Redux App Admin Dashboard
+React Redux App CodeCrew Code School's Admin Courses Dashboard
